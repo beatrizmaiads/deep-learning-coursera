@@ -800,7 +800,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Chapter%202%20-%20Training%20Simple%20Machine%20Learning%20Algor%20866ec4e9648a49cbbb416940f05c22a9/Untitled%2036.png](Chapter%202%20-%20Training%20Simple%20Machine%20Learning%20Algor%20866ec4e9648a49cbbb416940f05c22a9/Untitled%2036.png)
+![Chapter%202%20-%20Training%20Simple%20Machine%20Learning%20Algor%20866ec4e9648a49cbbb416940f05c22a9/img/Untitled%2036.png](Chapter%202%20-%20Training%20Simple%20Machine%20Learning%20Algor%20866ec4e9648a49cbbb416940f05c22a9/Untitled%2036.png)
 
 **As you can see, the average cost goes down pretty quickly, and the final decision
 boundary after 15 epochs looks similar to the batch gradient descent Adaline**. If
