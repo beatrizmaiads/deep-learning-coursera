@@ -1,6 +1,6 @@
 ## Deep Learning Journey
 -------------------------------------------
-This repository will be intended to document my learning and practice in Deep Learning according to the course [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+This repository will be intended to document my learning and practice in Deep Learning according to the course [Neural Networks and Deep Learning.](https://www.coursera.org/learn/neural-networks-deep-learning)
 
 ---------------------------------------------
 
