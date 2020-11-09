@@ -1,9 +1,20 @@
-## Deep Learning Journey
+# **Deep Learning Specialization on Coursera**
 -------------------------------------------
-This repository will be intended to document my learning and practice in Deep Learning according to the book [Python Machine Learning: Machine Learning and Deep Learning with Python- Sebastian Raschka & Vahid Mirjalili.](https://www.amazon.com.br/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B07VBLX2W7/ref=asc_df_B07VBLX2W7/?tag=googleshopp00-20&linkCode=df0&hvadid=379738478788&hvpos=&hvnetw=g&hvrand=1713978388550880725&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031613&hvtargid=pla-849792925347&psc=1)
+This repository will be intended to document my learning and practice in Deep Learning according to the course [Deep Learning Specialization.](https://www.coursera.org/specializations/deep-learning)
+Instructor: Andrew Ng, [DeepLearning.ai](https://www.deeplearning.ai/deep-learning-specialization/)
 
----------------------------------------------
 
-- Chapter 1 - Introduction
+## **Course 1 - Neural Networks and Deep Learning**
+---
+* Week 1 - Introduction to deep learning
+* Week 2 - Neural Networks Basics
+* Week 3 - Shallow neural networks
+* Week 4 - Deep Neural Networks
 
-- [Chapter 2 - Training Simple Machine Learning Algorithms for Classification](https://github.com/beatrizmaiads/Deep-learning-journey/tree/master/theory/Chapter-2)
+## **Course 2 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+---
+## **Course 3 - Structuring Machine Learning Projects**
+---
+## **Course 4 - Convolutional Neural Networks**
+---
+## **Course 5 - Sequence Models**
