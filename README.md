@@ -1,7 +1,7 @@
 # **Deep Learning Specialization on Coursera**
 
 This repository will be intended to document my learning and practice in Deep Learning according to the course [Neural Networks and Deep Learning.](https://www.coursera.org/learn/neural-networks-deep-learning)
--> Instructor: Andrew Ng, [DeepLearning.ai](https://www.deeplearning.ai/deep-learning-specialization/)
+Instructor: Andrew Ng, [DeepLearning.ai](https://www.deeplearning.ai/deep-learning-specialization/)
 ---
 
 ## **Course 1 - Neural Networks and Deep Learning**
